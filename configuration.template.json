@@ -1,0 +1,16 @@
+{
+    "host": "0.0.0.0",
+    "port": 8000,
+    "hmac_secret": "<HMAC Secret>",
+
+    "twitch_client_id": "<Twitch Client ID (from dev.twitch.tv)>",
+    "twitch_client_secret": "<Twitch Client Secret>",
+
+    "twitch_eventsub_hostname": "api.twitch.tv",
+    "twitch_eventsub_path": "/helix/eventsub/subscriptions",
+
+    "twitch_auth_hostname": "id.twitch.tv",
+    "twitch_auth_path": "/oauth2/token",
+
+    "twitch_target_uid": "<User ID of target channel>"
+}
