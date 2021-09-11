@@ -1,0 +1,14 @@
+{
+  "name": "stop-the-follow-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Skye Doto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
